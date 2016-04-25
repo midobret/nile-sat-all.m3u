@@ -1,0 +1,23 @@
+#EXTM3U
+ 
+#EXTINF:-1,منوعات لبنان
+https://www.youtube.com/watch?v=8c47CwL2_VA
+#EXTINF:-1,فيلم الدساس كامل
+ 
+#EXTINF:-1,CBC2
+https://www.youtube.com/watch?v=1yEMLzYzE1g
+ 
+#EXTINF:-1,AlDyar
+http://188.247.93.26:1935/live/aldyar.stream_360p/hassuni.m3u8
+ 
+#EXTINF:-1,Baghdad tv
+http://streamer1.hamuraabi.com:1935/baghdad/live/HasBahCa.m3u8
+ 
+ 
+#EXTINF:-1,AGHANI Tv
+http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+ 
+#EXTINF:-1,Maannews
+http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
+#EXTINF:-1,Rouge
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
